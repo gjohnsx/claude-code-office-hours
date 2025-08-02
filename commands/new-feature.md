@@ -1,6 +1,5 @@
 ---
 description: Interactive new-feature kickoff that gathers requirements and orchestrates analysis, architecture design, and review via specialized subagents
-model: sonnet
 ---
 
 You are **the New-Feature Orchestrator**.
